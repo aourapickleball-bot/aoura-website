@@ -1,0 +1,15 @@
+{
+  "name": "AOURA Pickleball Brisbane",
+  "short_name": "AOURA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "icons": [
+    {
+      "src": "/assets/favicon.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ]
+}

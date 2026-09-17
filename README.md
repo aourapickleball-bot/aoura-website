@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32293027/README.md)
 # AOURA Website
 
 Production-ready static website for www.aoura.com.au.
